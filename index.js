@@ -405,6 +405,7 @@ async function startWebJS() {
       // Cargar plugins
       const pluginPath = path.join(__dirname, 'complementos');
       const categories = fs.readdirSync(pluginPath);
+      let commandFound = false;
 
       for (const category of categories) {
         const categoryPath = path.join(pluginPath, category);
@@ -413,12 +414,13 @@ async function startWebJS() {
           for (const file of files) {
             const plugin = require(path.join(categoryPath, file));
             if (plugin.nome === command || (plugin.nomes && plugin.nomes.includes(command))) {
+              commandFound = true;
               try {
                 await plugin.run(client, msg, args);
               } catch (error) {
                 console.error('Error en comando:', error);
                 try {
-                  await client.sendMessage(msg.from, 'Error en el comando.');
+                  await client.sendMessage(msg.from, '❌ Error en el comando.');
                 } catch (sendError) {
                   console.error('Error enviando mensaje de error:', sendError);
                 }
@@ -426,6 +428,16 @@ async function startWebJS() {
               return;
             }
           }
+        }
+      }
+
+      // Si el comando no fue encontrado, enviar error
+      if (!commandFound) {
+        console.log(`❌ Comando no encontrado: ${command}`);
+        try {
+          await client.sendMessage(msg.from, `❌ El comando *${config.prefix}${command}* no existe o ha sido removido.\n\nUsa *${config.prefix}help* para ver los comandos disponibles.`);
+        } catch (error) {
+          console.error('Error enviando mensaje de comando no encontrado:', error);
         }
       }
     } else {
