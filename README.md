@@ -423,7 +423,7 @@ Este proyecto está bajo licencia **MIT Modificada**.
 
 - 🌐 [GitHub Repository](https://github.com/Anonimus1221/nagui-bot)
 - 📚 [WhatsApp Web JS](https://github.com/pedroslopez/whatsapp-web.js)
-- 🎨 [Blue Lock Anime](https://myanimelist.net/anime/49596/Blue_Lock)
+- 🎨 [Blue Lock Anime](https://bluelock-anime-en.com/)
 - 📖 [Node.js Documentation](https://nodejs.org/docs/)
 - 🐳 [Docker Setup](https://docs.docker.com/)
 
@@ -440,7 +440,6 @@ Este proyecto está bajo licencia **MIT Modificada**.
 - 🤖 Integración de IA
 - 🎨 Tema Blue Lock completo
 - 🛡️ Sistema anti-detección avanzado
-- 📖 README con animaciones ASCII
 </details>
 
 ---
