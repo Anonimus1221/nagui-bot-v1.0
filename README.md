@@ -1,75 +1,54 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  ███╗   ██╗ █████╗  ██████╗ █╗   ██╗██╗    ██████╗  ██████╗ ████████╗      ║
-║  ████╗  ██║██╔══██╗██╔════╝███╗ ███║██║    ██╔══██╗██╔═══██╗╚══██╔══╝      ║
-║  ██╔██╗ ██║███████║██║     ╚██╗█╗██╔╝██║    ██████╔╝██║   ██║   ██║         ║
-║  ██║╚██╗██║██╔══██║██║      ╚███╔╝██║██║    ██╔══██╗██║   ██║   ██║         ║
-║  ██║ ╚████║██║  ██║╚██████╗ ██╔██╗██║██║    ██████╔╝╚██████╔╝   ██║         ║
-║  ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚═╝╚═╝    ╚═════╝  ╚═════╝    ╚═╝         ║
-║                                                                              ║
-║                  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓         ║
-║                  ┃  🔵⚫ BLUE LOCK BOT - SEISHIRO NAGI ⚫🔵      ┃         ║
-║                  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛         ║
-║                                                                              ║
-║           ▀▄▀▄▀▄ Bot de WhatsApp Completo y Optimizado ▄▀▄▀▄▀             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <b>✨✨✨ Gracias por visitar este repositorio ✨✨✨</b>
+<p align="center"> 
+<a href="https://github.com/Anonimus1221"><img src="https://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=0051FF&center=true&vCenter=true&lines=NAGUI+BOT+%F0%9F%A4%96;Bot+WhatsApp+Blue+Lock;84+Comandos+Disponibles;%F0%9F%99%8F+Gracias+por+visitar!" height="90px"></a> 
 </p>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/seishiro-nagi-blue-lock-talking-0ok9ne0po822qt6j.webp" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
+<img src="https://gifdb.com/images/high/seishiro-nagi-blue-lock-talking-0ok9ne0po822qt6j.webp" alt="Nagui Bot Presentation - Blue Lock" width="800"/>
+  
+> Antes de usar este repositorio, visita la **[Política de Nagui Bot. 🤖](https://github.com/Anonimus1221/nagui-bot/blob/main/LICENSE.md)** 
 </p>
 
 <p align="center">
-  <em>🎨 Inspirado en Seishiro Nagi de Blue Lock 🎨</em>
-</p>
-
----
-
-<p align="center">
-  <code>═══════════════════════════════════════════════════════════════</code>
+<a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/SI%20TE%20AGRADA%20APOYAME%20CON%20UNA%20🌟%20¡GRACIAS!-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<img src="https://media.tenor.com/RHYZMCikguIAAAAC/nagi-seishiro.gif" height="28px">
 </p>
 
 <p align="center">
-  ⚠️ <b>Antes de usar este repositorio, asegúrate de leer la</b> <a href="#-licencia"><b>📄 Licencia</b></a>
+<a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/LEA%20TODO%20EL%20README-blue?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
+<a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/COMPATIBLE%20CON%20MULTI%20DISPOSITIVOS-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-  <a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/⭐%20APOYAME%20CON%20UNA%20ESTRELLA%20⭐-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-</p>
-
-<p align="center">
-  <a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/📖%20LEA%20TODO%20EL%20README-blue?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-  <a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/✅%20MULTI%20DISPOSITIVOS-green?colorA=%23017e40&colorB=%23017e40&style=for-the-badge"></a>
-  <a href="#"><img title="Nagui Bot" src="https://img.shields.io/badge/🚀%20ANTI--DETECCIÓN-yellow?colorA=%23FFD700&colorB=%23FFD700&style=for-the-badge"></a>
+<p align="center">   
+<a href="https://github.com/Anonimus1221/nagui-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Anonimus1221/nagui-bot?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Anonimus1221/nagui-bot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Anonimus1221/nagui-bot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Anonimus1221/nagui-bot/network"><img title="Forks" src="https://img.shields.io/github/forks/Anonimus1221/nagui-bot?label=Forks&color=purple&style=flat-square"></a>
 </p>
 
 <div align="center">
-
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naguibot@example.com)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NaguiBotSupport)
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573182049792)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anonimus1221)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573182049792)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naguibot)
 </div>
 
-<p align="center">
-  <code>═══════════════════════════════════════════════════════════════</code>
-</p>
+---
 
-## 📋 Tabla de Contenidos
-````
+## 📍 Atajos del README
 
-- [Características](#-características)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Comandos](#-comandos)
-- [Configuración](#-configuración)
-- [Licencia](#-licencia)
+| TEMA | DESCRIPCIÓN | ATAJO |
+|------|-------------|-------|
+| **WINDOWS** | ***INSTALACIÓN PARA WINDOWS*** |[ver](#-para-usuarios-de-windowsvpsrdp) |
+| **LINUX** | ***INSTALACIÓN PARA LINUX*** |[ver](#-instalación-en-linux) |
+| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](#-opción-1-instalación-automática-) |
+| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](#-opción-2-instalación-manual-por-termux---github) |
+| **COMANDOS** | ***84 COMANDOS DISPONIBLES*** |[ver](#-categorías-de-comandos) |
+| **CARACTERÍSTICAS** | ***CARACTERÍSTICAS PRINCIPALES*** |[ver](#-características) |
+| **CONFIGURACIÓN** | ***PERSONALIZAR TU BOT*** |[ver](#-configuración) |
+| **ANTI-DETECCIÓN** | ***SISTEMA ANTI-BLOQUEO*** |[ver](#-sistema-anti-detección) |
+| **POLÍTICA** | ***TÉRMINOS DE USO*** |[ver](#-licencia) |
+| **DESARROLLADORES** | ***PARTICIPANTES DEL PROYECTO*** |[ver](#-creadora) |
 
 ---
 
@@ -97,130 +76,165 @@
 
 </div>
 
-### 🌟 Características Principales
+---
 
+## 🟢 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA 🫰
+
+> **Nota** Comandos para instalar de forma automática en Termux  
+
+```bash
+termux-setup-storage
 ```
-  ╔════════════════════════════════════════════════════════════════════╗
-  ║  🎮 84 COMPLEMENTOS            📁 Organizados por 11 categorías   ║
-  ║  🔐 DUAL AUTHENTICATION        🎯 Windows/Linux & Termux/Mobile   ║
-  ║  🎨 TEMA NAGUI/BLUE LOCK       🖼️  Interfaz personalizada         ║
-  ║  ⚡ RENDIMIENTO OPTIMIZADO     🚀 Plugins dinámicos              ║
-  ║  🛡️  GESTIÓN DE GRUPOS         👮 Herramientas avanzadas         ║
-  ║  🎵 DESCARGAS MULTIMEDIA       📥 YouTube & TikTok               ║
-  ║  🤖 IA INTEGRADA               🧠 ChatGPT, Gemini, Bard, etc     ║
-  ║  🎭 JUEGOS INTERACTIVOS        🎮 Ranking, Tapa, Beso, etc       ║
-  ║  💰 SISTEMA DE ECONOMÍA        💸 Trabajar, Robar, Apostar       ║
-  ║  🎬 LOGOS TEXTUALES            🎨 13 Generadores diferentes      ║
-  ║  🛡️  ANTI-DETECCIÓN AVANZADO   🔒 Evita bloqueos de WhatsApp    ║
-  ╚════════════════════════════════════════════════════════════════════╝
+
+```bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Anonimus1221/nagui-bot/main/install.sh | bash
+```
+
+### 🔧 Personalizar Instalación Automática
+```js
+// PARÁMETROS QUE PUEDEN SER MODIFICADOS --> "[...]"
+"wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/install.sh | bash"
 ```
 
 ---
-| 🎬 **Logos** | 13 generadores de logos textuales |
-| 🛡️ **Anti-Detección** | Sistema avanzado para evitar bloqueos de WhatsApp |
 
-## 📥 Instalación
+## 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                     🚀 GUÍA DE INSTALACIÓN RÁPIDA 🚀                    ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-### 📋 Requisitos Previos
-- **Node.js** v16 o superior
-- **npm** (incluido con Node.js)
-- **FFmpeg** (para procesamiento de audio/video)
-- **yt-dlp** (para descargas de YouTube/TikTok)
-
-### 🖥️ Instalación en Windows
+> **Nota** Comandos para instalar de forma manual
 
 ```bash
-# 1️⃣ Clonar repositorio
-git clone https://github.com/Anonimus1221/nagui-bot.git
-cd nagui-bot
-
-# 2️⃣ Instalar dependencias
-npm install
-
-# 3️⃣ Ejecutar el bot
-npm start
+termux-setup-storage
 ```
-
-### 📱 Instalación en Termux/Android
 
 ```bash
-# 1️⃣ Instalar dependencias del sistema
-pkg install -y nodejs ffmpeg git
-
-# 2️⃣ Clonar y configurar
-git clone https://github.com/Anonimus1221/nagui-bot.git
-cd nagui-bot
-npm install
-
-# 3️⃣ Ejecutar
-npm start
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
-
-### 🐧 Instalación en Linux
 
 ```bash
-# 1️⃣ Instalar Node.js y FFmpeg
-sudo apt install nodejs npm ffmpeg git
-
-# 2️⃣ Clonar repositorio
-git clone https://github.com/Anonimus1221/nagui-bot.git
-cd nagui-bot
-
-# 3️⃣ Instalar y ejecutar
-npm install
-npm start
+git clone https://github.com/Anonimus1221/nagui-bot && cd nagui-bot
 ```
-
-### 🍎 Instalación en macOS
 
 ```bash
-# 1️⃣ Instalar dependencias (requiere Homebrew)
-brew install node ffmpeg git
+yarn install && npm install
+```
 
-# 2️⃣ Clonar repositorio
-git clone https://github.com/Anonimus1221/nagui-bot.git
+```bash
+npm start
+```
+
+> **Advertencia** Si aparece (Y/I/N/O/D/Z) [default=N] ? usa la letra "y" + "ENTER" para continuar con la instalación 
+
+---
+
+## 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
+
+> **Nota** Descargué y Descomprime: [`DESCARGAR ARCHIVOS`](https://github.com/Anonimus1221/nagui-bot/archive/refs/heads/main.zip)
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+
+```bash
+cd storage/downloads/nagui-bot-main
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
+
+> **Nota** Aplicación recomendada para descomprimir: [`RAR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
+
+---
+
+## 🚀 USAR NAGUI BOT 24/7 EN TERMUX 
+
+> Ejecutar estos comandos dentro de la carpeta nagui-bot
+
+```bash
+termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
+``` 
+
+### ⬇️ Opciones Disponibles
+
+> Esto eliminará todo el historial que hayas establecido con PM2:
+```bash 
+pm2 delete index
+``` 
+
+> Si tienes cerrado Termux y quiere ver de nuevo la ejecución:
+```bash 
+pm2 logs 
+``` 
+
+> Si desea detener la ejecución:
+```bash 
+pm2 stop index
+``` 
+
+> Si desea iniciar de nuevo la ejecución:
+```bash 
+pm2 start index
+``` 
+
+---
+
+## 🔵 OBTENER OTRO CÓDIGO QR EN TERMUX
+
+> Detén el bot, presiona Ctrl+C para salir
+
+```bash 
 cd nagui-bot
+```
 
-# 3️⃣ Instalar y ejecutar
-npm install
+```bash
+rm -rf .wwebjs_auth
+```
+
+```bash
 npm start
 ```
 
-# 3. Instalar y ejecutar
-npm install
-npm start
+---
+
+## 💻 PARA USUARIOS DE WINDOWS/VPS/RDP
+
+* Descargar e instala Git [`Aquí`](https://git-scm.com/downloads)
+* Descargar e instala NodeJS [`Aquí`](https://nodejs.org/en/download)
+* Descargar e instala FFmpeg [`Aquí`](https://ffmpeg.org/download.html) (**Agregue FFmpeg a la variable de entorno PATH**)
+* Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/Anonimus1221/nagui-bot && cd nagui-bot && npm install && npm update && node .
 ```
 
-## 🚀 Uso
+### 💻 Instalación de FFmpeg para Windows 
 
+* Descarga cualquiera de las versiones de FFmpeg disponibles: [`FFmpeg`](https://www.gyan.dev/ffmpeg/builds/).
+* Extraer archivos a `C:\` 
+* Renombre la carpeta extraída a `ffmpeg`
+* Ejecute el símbolo del sistema como administrador
+* Ejecute el siguiente comando:
+
+```cmd
+> setx /m PATH "C:\ffmpeg\bin;%PATH%"
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                      ⚡ PRIMEROS PASOS - GUÍA RÁPIDA ⚡                ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+
+* Verifique que funcionó:
+```cmd
+> ffmpeg -version
 ```
-
-### 📝 Pasos Iniciales
-
-1. **📲 Escanea el código QR**
-   - Windows/Linux: Se mostrará un código QR en consola
-   - Termux/Mobile: Se mostrará un código de vinculación
-
-2. **🤖 Abre WhatsApp en tu teléfono**
-   - Dispositivos emparejados → Vincula tu dispositivo
-   - Escanea el QR o usa el código de vinculación
-
-3. **💬 Escribe `.menu` en WhatsApp**
-   - Ver todos los comandos disponibles
-   - Navega por las categorías
-
-4. **⚙️ Personaliza la configuración**
-   - Edita `configuracion/config.json` según necesites
 
 ---
 
@@ -250,32 +264,7 @@ npm start
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 📖 Ejemplos de Uso
-
-```javascript
-// Menus
-.menu              // Menú principal
-.menuadm           // Menú de admin
-.menuias           // Menú de IA
-.menudescargas     // Menú de descargas
-
-// Utilidades
-.ping              // Ver latencia del bot
-.uptime            // Ver tiempo en línea
-.info              // Información del bot
-.help              // Lista de comandos
-
-// IA
-.chatgpt texto     // Pregunta a ChatGPT
-.gemini texto      // Pregunta a Gemini
-.bard texto        // Pregunta a Bard
-
-// Descargas
-.ytmp4 url         // Descargar video de YouTube
-.ytmp3 url         // Descargar audio de YouTube
-.tiktokmp4 url     // Descargar video de TikTok
-.tiktokmp3 url     // Descargar audio de TikTok
-```
+---
 
 ## ⚙️ Configuración
 
@@ -306,112 +295,37 @@ Edita `configuracion/config.json` para personalizar tu bot:
 }
 ```
 
-### 🔧 Comandos de Mantenimiento
-
-```bash
-# Reinicia automáticamente si el bot se cae
-npm run restart
-
-# Limpiar sesión (para volver a escanear QR)
-npm run clean
-
-# Verificar todos los comandos
-node verificar-comandos.js
-```
-
----
-
-## 🏗️ Estructura del Proyecto
-
-```
-nagui-bot/
-│
-├── 📁 complementos/                  # 84 plugins organizados
-│   ├── admin/                        # 25+ Comandos de administración
-│   ├── juegos/                       # 6 Juegos interactivos
-│   ├── ia/                           # 7 Modelos de IA
-│   ├── descargas/                    # 5 Descargadores multimedia
-│   ├── logos/                        # 13 Generadores de logos
-│   ├── economia/                     # 4 Sistema económico
-│   ├── herramientas/                 # 8 Utilidades
-│   ├── busquedas/                    # 1 Buscador
-│   ├── acechos/                      # 2 Stalking
-│   ├── dueno/                        # 4 Comandos del dueño
-│   └── menus/                        # 11 Menús temáticos
-│
-├── 📁 configuracion/                 # Archivos de config
-│   ├── config.json                   # Configuración principal
-│   ├── fotos.json                    # URLs de imágenes
-│   └── respostas.json                # Respuestas personalizadas
-│
-├── 📁 src/
-│   └── img/                          # Imágenes del bot (18)
-│
-├── 📁 utils/                         # Utilidades
-│   ├── anti-detection.js             # Sistema anti-bloqueo
-│   ├── grupo.js                      # Funciones de grupo
-│   └── exports.js                    # Funciones auxiliares
-│
-├── 📁 data/                          # Base de datos
-│   ├── inactivity.json               # Actividad de usuarios
-│   ├── silenciados.json              # Usuarios silenciados
-│   └── subbots.json                  # Sub-bots registrados
-│
-├── 📁 event_handlers/                # Manejadores de eventos
-│   └── command_handler.js            # Procesamiento de comandos
-│
-├── 📄 index.js                       # Punto de entrada principal
-├── 📄 package.json                   # Dependencias npm
-├── 📄 package-lock.json              # Lock de versiones
-├── 📄 ANTI-DETECTION.md              # Doc. anti-detección
-├── 📄 README.md                      # Este archivo
-├── 📄 LICENSE.md                     # Licencia MIT
-└── 📄 .gitignore                     # Archivos ignorados
-```
-
 ---
 
 ## 🛡️ Sistema Anti-Detección
 
 El bot incluye un **sistema avanzado de anti-detección** para evitar ser bloqueado por WhatsApp:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ✅ Delays humanoides (800-4500ms)                         │
-│  ✅ Configuración de Puppeteer optimizada                  │
-│  ✅ Desactiva flags de automatización                      │
-│  ✅ User agents realistas y aleatorios                     │
-│  ✅ Comportamiento humano natural                          │
-│  ✅ Tipeo con variación de velocidad                       │
-│  ✅ Sesión persistente en caché                            │
-│  ✅ Keep-alive automático cada 30 segundos                 │
-└─────────────────────────────────────────────────────────────┘
-```
-
-Para más información, consulta [ANTI-DETECTION.md](ANTI-DETECTION.md)
-
-## ⚠️ Aviso Legal
+<details>
+<summary><b>📋 Ver características de anti-detección</b></summary>
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    ⚠️ DESCARGO DE RESPONSABILIDAD ⚠️                  ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+✅ Delays humanoides (800-4500ms)
+✅ Configuración de Puppeteer optimizada
+✅ Desactiva flags de automatización
+✅ User agents realistas y aleatorios
+✅ Comportamiento humano natural
+✅ Tipeo con variación de velocidad
+✅ Sesión persistente en caché
+✅ Keep-alive automático cada 30 segundos
 ```
 
-Este bot es **para uso educativo y personal**. El usuario es **responsable** del uso que le dé.
-
-### ⛔ Riesgos Potenciales
-
-- 🚫 **Baneos de WhatsApp** por uso inapropiado
-- 💾 **Pérdida de datos** y sesiones
-- ⚠️ **Daños** causados por uso malintencionado
-- 🔒 Responsabilidad **total del usuario**
+Para más información: [`ANTI-DETECTION.md`](ANTI-DETECTION.md)
+</details>
 
 ---
 
 ## 📄 Licencia
 
 Este proyecto está bajo licencia **MIT Modificada**.
+
+<details>
+<summary><b>📜 Ver términos de licencia</b></summary>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -437,10 +351,14 @@ Este proyecto está bajo licencia **MIT Modificada**.
 ║  Debes incluir la licencia y créditos originales en distribuciones.    ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
+</details>
 
 ---
 
 ## 📊 Estadísticas del Proyecto
+
+<details>
+<summary><b>📈 Ver estadísticas detalladas</b></summary>
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
@@ -458,45 +376,32 @@ Este proyecto está bajo licencia **MIT Modificada**.
 ║  🛡️  Anti-Detección..................... Avanzado              ✅    ║
 ║  🚀 Optimización......................... Máxima                ✅    ║
 ║                                                                            ║
-╠════════════════════════════════════════════════════════════════════════════╣
-║                                                                            ║
-║  📈 CRECIMIENTO DEL PROYECTO:                                            ║
-║     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 85%         ║
-║                                                                            ║
-║  🔥 CONFIABILIDAD:                                                        ║
-║     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ 98%         ║
-║                                                                            ║
-║  ⚡ VELOCIDAD:                                                            ║
-║     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 95%         ║
-║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
-┃  📁 Categorías................ 11                           ┃
-┃  ⚙️  Dependencias.............. 13                          ┃
-┃  ❌ Errores de Compilación.... 0                            ┃
-┃  📸 Imágenes Temáticas........ 18                           ┃
-┃  📝 Líneas de Código.......... 10.000+                      ┃
-┃  ✅ Estado General............ 100% Funcional              ┃
-┃  🎨 Tema..................... Blue Lock (Nagui)            ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+</details>
 
 ---
 
 ## 🌟 Contribuciones
 
-¿Quieres contribuir? ¡Bienvenido! Sigue estos pasos:
+¿Quieres contribuir? ¡Bienvenido! 
+
+<details>
+<summary><b>📝 Ver pasos para contribuir</b></summary>
 
 1. 🍴 **Fork** el repositorio
 2. 🌿 Crea una rama para tu feature (`git checkout -b feature/nueva-funcion`)
 3. 📝 Haz tus cambios y **commit** (`git commit -m "Agrega nueva función"`)
 4. 🚀 **Push** a la rama (`git push origin feature/nueva-funcion`)
 5. 📬 Abre un **Pull Request**
+</details>
 
 ---
 
 ## 📞 Contacto y Soporte
+
+<details>
+<summary><b>💬 Formas de contacto</b></summary>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -505,9 +410,12 @@ Este proyecto está bajo licencia **MIT Modificada**.
 │                                                              │
 │  💬 Sígueme en:                                             │
 │     → GitHub: @Anonimus1221                                │
-│     → WhatsApp: En el repositorio                          │
+│     → WhatsApp: Disponible en el repositorio              │
+│     → Telegram: @NaguiBotSupport                          │
+│     → Email: naguibot@example.com                         │
 └─────────────────────────────────────────────────────────────┘
 ```
+</details>
 
 ---
 
@@ -523,12 +431,33 @@ Este proyecto está bajo licencia **MIT Modificada**.
 
 ## 🎬 Changelog
 
+<details>
+<summary><b>📋 Ver historial de cambios</b></summary>
+
 ### v1.0 - Lanzamiento Inicial
 - ✨ 84 comandos funcionales
 - 🔐 Sistema de autenticación dual
 - 🤖 Integración de IA
 - 🎨 Tema Blue Lock completo
 - 🛡️ Sistema anti-detección avanzado
+- 📖 README con animaciones ASCII
+</details>
+
+---
+
+## 🌟 DESARROLLADORES
+
+<a href="https://github.com/Anonimus1221/nagui-bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Anonimus1221/nagui-bot" /> 
+</a>
+
+---
+
+## 🌟 CREADORA
+
+[![Anonimus1221](https://github.com/Anonimus1221.png?size=100)](https://github.com/Anonimus1221) 
+
+> Copyright (c) 2024 **[Anonimus1221](https://github.com/Anonimus1221/nagui-bot/blob/main/LICENSE.md)**.
 
 ---
 
@@ -575,3 +504,5 @@ Este proyecto está bajo licencia **MIT Modificada**.
 
 [![GitHub Stars](https://img.shields.io/github/stars/Anonimus1221/nagui-bot?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anonimus1221/nagui-bot)
 [![Made with Love](https://img.shields.io/badge/Hecho%20con-💖-red?style=for-the-badge)](https://github.com/Anonimus1221)
+
+</div>
