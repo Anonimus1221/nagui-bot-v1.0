@@ -6,6 +6,7 @@ const qrcode = require('qrcode-terminal');
 const ora = require('ora').default;
 const os = require('os');
 const { OpenAI } = require('openai');
+const antiDetection = require('./utils/anti-detection.js');
 
 // Banner del bot
 console.log('===============================');
@@ -63,6 +64,14 @@ global.requisicaoComLimite = async (url) => {
   }
 };
 
+// Función de delay humanoide para evitar detección de bots
+global.delayHumano = () => {
+  return new Promise(resolve => {
+    const delay = antiDetection.getHumanDelay();
+    setTimeout(resolve, delay);
+  });
+};
+
 global.aumentartotalcmds = () => {};
 global.aumentarcmdsgeral = () => {};
 
@@ -97,49 +106,11 @@ async function startWebJS() {
   
   const client = new Client({
     authStrategy: new LocalAuth(),
-    puppeteer: {
-      headless: true,
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-gpu',
-        '--disable-web-security',
-        '--disable-features=IsolateOrigins,site-per-process',
-        '--disable-blink-features=AutomationControlled',
-        '--disable-background-timer-throttling',
-        '--disable-renderer-backgrounding',
-        '--disable-backgrounding-occluded-windows',
-        '--disable-breakpad',
-        '--disable-client-side-phishing-detection',
-        '--disable-component-extensions-with-background-pages',
-        '--disable-default-apps',
-        '--disable-extensions',
-        '--disable-features=TranslateUI',
-        '--disable-hang-monitor',
-        '--disable-popup-blocking',
-        '--disable-prompt-on-repost',
-        '--enable-automation',
-        '--memory-pressure-off',
-        '--no-first-run',
-        '--no-service-autorun',
-        '--disable-site-isolation-trials',
-        '--disable-web-resources'
-      ],
-      ignoreDefaultArgs: [],
-      ignoreHTTPSErrors: true,
-      timeout: 180000, // 3 minutos para conectar
-      protocolTimeout: 180000, // 3 minutos para protocolo
-      defaultViewport: {
-        width: 1024,
-        height: 768
-      },
-      slowMo: 0 // Sin delay artificial
-    },
+    puppeteer: antiDetection.getPuppeteerConfig(),
     takeoverOnConflict: true,
-    takeoverTimeoutMs: 90000, // 90 segundos para takeover
-    qrMaxRetries: 0, // Sin límite de reintentos
-    authTimeoutMs: 0, // Sin timeout
+    takeoverTimeoutMs: 90000,
+    qrMaxRetries: 0,
+    authTimeoutMs: 0,
     restartOnAuthFail: false
   });
 
@@ -324,6 +295,8 @@ async function startWebJS() {
       const isWebJS = true;
       const wrapperClient = {
         sendMessage: async (jid, content) => {
+          // Simular tiempo de tipeo humano
+          await global.delayHumano();
           console.log('📤 Enviando respuesta a ' + jid + ': ' + (typeof content === 'string' ? content : content.text || content.caption || 'Media'));
           const isUrl = (str) => /^https?:\/\//i.test(str);
           const isGif = (file) => typeof file === 'string' && file.toLowerCase().endsWith('.gif');
@@ -471,6 +444,8 @@ async function startWebJS() {
     // IA PRIVADA GRATIS: Responder como humano en chats privados
     if (!isGroup && body && !body.startsWith(config.prefix)) {
       try {
+        // Simular que el bot está "pensando"
+        await global.delayHumano();
         const reply = generateHumanLikeResponse(body);
         await client.sendMessage(from, reply);
         console.log(`✨ IA Privada: ${reply.substring(0, 50)}...`);
