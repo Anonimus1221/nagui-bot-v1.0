@@ -1,0 +1,21 @@
+{
+  "videomenu": "src/img/profilebot.png",
+  "fotomenu": "src/img/menunagui.gif",
+  "fotomenudono": "src/img/fotomenudono.png",
+  "fotomenuadm": "src/img/fotomenuadm.png",
+  "fotomenuias": "src/img/fotomenuias.png",
+  "fotomenudescargas": "src/img/fotomenudescargas.png",
+  "fotomenuherramientas": "src/img/fotomenuherramientas.png",
+  "fotomenubusquedas": "src/img/fotomenubusquedas.png",
+  "fotomenulogos": "src/img/fotomenulogos.png",
+  "fotomenustalks": "src/img/fotomenustalks.png",
+  "fotomenujuegos": "src/img/fotomenujuegos.png",
+  "fotomenueconomia": "src/img/fotomenueconomia.png",
+  "profilebot": "src/img/profilebot.png",
+  "bannerbot": "src/img/bannerbot.png",
+  "fotorankgay": "src/img/fotorankgay.png",
+  "fotobeijo": "src/img/fotobeijo.png",
+  "fototapa": "src/img/fototapa.jpg",
+  "fotorankpgs": "src/img/fotorankpgs.jpg",
+  "rankgostosos": "src/img/rankgostosos.png"
+}

@@ -1,0 +1,11 @@
+{
+  "so_grupo": "Este comando solo puede usarse en grupos",
+  "so_dono": "Solo el dueño puede usar este comando",
+  "so_adm": "Solo los administradores pueden usar este comando",
+  "bot_adm": "Necesito ser admin para ejecutar este comando",
+  "marcar_alguem": "Marca a alguien para usar este comando",
+  "textoparametro": "Escribe el texto necesario",
+  "marca_foto": "Marca una imagen",
+  "limiteesgoted": "Límite agotado:",
+  "erro": "Error al procesar"
+}
