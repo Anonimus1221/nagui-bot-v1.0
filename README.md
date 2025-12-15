@@ -443,7 +443,7 @@ Este proyecto está bajo licencia **MIT Modificada**.
 - 📖 README con animaciones ASCII
 </details>
 
---
+---
 
 ## 🌟 CREADOR
 
