@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/BjWSmC5cQVAAAAAC/blue-lock-nagi-seishiro.gif" alt="Nagui Bot - Blue Lock" width="800"/>
+<img src="src/img/nagui-presentation.gif" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
+</p>
+
+<p align="center">
   
-> Antes de usar este repositorio, asegúrate de leer la **[Licencia MIT](#-licencia)**
+> Antes de usar este repositorio, asegúrate de leer la **[Licencia](#-licencia)**
 </p>
 
 <p align="center">
@@ -23,185 +26,215 @@
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivercamachodiaz2008@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573182049792)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliversc_3z)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anonimus1221)
 </div>
 
------
+## 📋 Tabla de Contenidos
 
-# 🤖 Nagui Bot
+- [Características](#-características)
+- [Instalación](#-instalación)
+- [Uso](#-uso)
+- [Comandos](#-comandos)
+- [Licencia](#-licencia)
 
-Un bot personalizado de WhatsApp inspirado en **Blue Lock**, creado por **Anonimus1221**. Diseñado para ofrecer una experiencia única con comandos divertidos, herramientas útiles y un toque de anime.
+## 🎯 Características
 
-## 📋 Descripción
+✨ **Nagui Bot** es un bot de WhatsApp completo con 84 comandos temáticos de Blue Lock:
 
-**Nagui Bot** es un bot multifuncional para WhatsApp que incluye:
-- ✅ 84 complementos activos
-- ✅ 11 categorías de comandos
-- ✅ Autenticación dual (QR + Código de vinculación)
-- ✅ Sistema de economía y juegos
-- ✅ IA integrada
-- ✅ Gestión avanzada de grupos
+### Características Principales
+- 🎮 **84 Complementos** organizados por categoría
+- 🔐 **Dual Authentication**: QR para Windows/Linux, linking code para Termux/Mobile
+- 🎨 **Tema Nagui/Blue Lock**: Interfaz personalizada con imágenes temáticas
+- ⚡ **Rendimiento Optimizado**: Arquitectura de plugins dinámicos
+- 🛡️ **Gestión de Grupos**: Herramientas avanzadas de administración
+- 🎵 **Descargas**: YouTube, TikTok (MP3/MP4)
+- 🤖 **IA Integrada**: ChatGPT, Gemini, Bard, GPT-4
+- 🎭 **Juegos**: Varios juegos interactivos
+- 💰 **Sistema de Economía**: Trabajar, robar, apostar, saldo
+- 🎬 **Logos**: 13 generadores de logos textuales
 
-Compatible con **Windows** (QR), **Termux/Linux** (código de vinculación) y **Servidores**.
+## 📥 Instalación
 
-## ✨ Características Principales
+### Requisitos
+- **Node.js** v16 o superior
+- **npm** (incluido con Node.js)
+- **FFmpeg** (para procesamiento de audio/video)
+- **yt-dlp** (para descargas de YouTube/TikTok)
 
-- 🔧 **84 Complementos Modulares**: Plugins organizados por 11 categorías
-- 📱 **Autenticación Dual**: QR en Windows / Código en Termux-Mobile
-- 👥 **Gestión de Grupos**: Admin tools, bans, expulsiones automáticas
-- 🎮 **Juegos**: Rankings, besos, tapas, anime-hello
-- 🤖 **IA**: ChatGPT, Gemini, Bard, GPT4
-- 🎬 **Descargas**: YouTube, TikTok (MP3 y MP4)
-- 🎨 **Generador de Logos**: Blackpink, Dragon Ball, Neon, Matrix, etc.
-- 💰 **Sistema de Economía**: Trabajar, robar, apostar
-- 🔐 **Sesiones Persistentes**: Reconnexión automática
-- 🌍 **IA Privada**: Responde inteligentemente en chats privados
+### Pasos
 
-## 📂 Estructura del Proyecto
-
-```
-nagui-bot/
-├── index.js                      # Archivo principal
-├── package.json                  # Dependencias
-├── complementos/                 # 84 Plugins por categorías
-│   ├── admin/                    # Comandos de administración (25+)
-│   ├── juegos/                   # Juegos y diversión (6)
-│   ├── ia/                       # Inteligencia Artificial (7)
-│   ├── descargas/                # Descarga de multimedia (5)
-│   ├── logos/                    # Generadores de logos (13)
-│   ├── economia/                 # Sistema económico (4)
-│   ├── herramientas/             # Utilidades (8)
-│   ├── busquedas/                # Búsquedas (1)
-│   ├── acechos/                  # Stalking (2)
-│   ├── dueno/                    # Comandos del owner (4)
-│   └── menus/                    # Menús interactivos (11)
-├── configuracion/                # Archivos de configuración
-├── event_handlers/               # Manejadores de eventos
-├── data/                         # Datos persistentes
-├── utils/                        # Utilidades
-├── bin/                          # Ejecutables (yt-dlp)
-├── ffmpeg/                       # FFmpeg para conversión
-├── README.md                     # Este archivo
-└── credits.txt                   # Créditos del proyecto
-```
-
-## 🚀 Instalación Rápida
-
-### Windows
+#### Windows
 ```bash
+# 1. Clonar repositorio
 git clone https://github.com/Anonimus1221/nagui-bot.git
 cd nagui-bot
+
+# 2. Instalar dependencias
+npm install
+
+# 3. Ejecutar el bot
+npm start
+```
+
+#### Termux/Android
+```bash
+# 1. Instalar dependencias del sistema
+pkg install -y nodejs ffmpeg git
+
+# 2. Clonar y configurar
+git clone https://github.com/Anonimus1221/nagui-bot.git
+cd nagui-bot
+npm install
+
+# 3. Ejecutar
+npm start
+```
+
+#### Linux
+```bash
+# 1. Instalar Node.js y FFmpeg
+sudo apt install nodejs npm ffmpeg
+
+# 2. Clonar repositorio
+git clone https://github.com/Anonimus1221/nagui-bot.git
+cd nagui-bot
+
+# 3. Instalar y ejecutar
 npm install
 npm start
 ```
 
-### Termux/Linux
-```bash
-pkg update && pkg install -y git nodejs ffmpeg
-git clone https://github.com/Anonimus1221/nagui-bot.git
-cd nagui-bot
-npm install
-npm start
-```
+## 🚀 Uso
 
-### 24/7 en Termux (con PM2)
-```bash
-npm i -g pm2
-pm2 start index.js
-pm2 save
-```
+1. **Escanea el código QR** (Windows/Linux) o usa el **linking code** (Termux/Mobile)
+2. **Escribe `.menu`** para ver todos los comandos disponibles
+3. **Personaliza** `configuracion/config.json` según necesites
+
+## 📱 Categorías de Comandos
+
+| Categoría | Comandos | Descripción |
+|-----------|----------|-------------|
+| **Admin** | 25+ | Moderación, antispam, antistickers +18 |
+| **Juegos** | 6 | Ranking gay, tapa, beso, etc |
+| **IA** | 7 | ChatGPT, Gemini, Bard, GPT-4, etc |
+| **Descargas** | 5 | YouTube/TikTok MP3/MP4 |
+| **Logos** | 13 | Generadores de texto artistic |
+| **Economía** | 4 | Trabajar, saldo, robar, apostar |
+| **Herramientas** | 8 | Ping, uptime, hora, info, etc |
+| **Búsquedas** | 1 | YouTube search |
+| **Stalking** | 2 | Instagram/TikTok stalk |
+| **Owner** | 4 | Comandos de propietario |
+| **Menus** | 11 | Menús temáticos por categoría |
 
 ## ⚙️ Configuración
 
-**Edita los archivos en `configuracion/`:**
-
-1. **config.json**: Ajustes generales
-   - Prefijo de comandos (default: `.`)
-   - Número del owner
-   - URL API (opcional)
-
-2. **respostas.json**: Respuestas personalizadas
-
-3. **fotos.json**: URLs de imágenes
-
-## 📖 Uso de Comandos
-
-- **Prefijo**: `.` (ej: `.help`)
-- **Menú Principal**: `.menu`
-- **Ayuda**: `.help`
-- **Información**: `.info`
-- **Ping**: `.ping`
-
-## 🎮 Categorías de Comandos
-
-| Categoría | Comandos | Ejemplo |
-|-----------|----------|---------|
-| **Admin** | 25+ | `.silenciar`, `.expulsar`, `.promover` |
-| **Juegos** | 6 | `.rankgay`, `.tapa`, `.beijar` |
-| **IA** | 7 | `.chatgpt`, `.gemini`, `.bard` |
-| **Descargas** | 5 | `.play`, `.ytmp3`, `.tiktokmp4` |
-| **Logos** | 13 | `.neon`, `.matrix`, `.fire` |
-| **Economía** | 4 | `.trabajar`, `.robar`, `.saldo` |
-
-## 📦 Dependencias
-
-- **whatsapp-web.js** - Cliente de WhatsApp
-- **axios** - Peticiones HTTP
-- **fs-extra** - Operaciones de archivos
-- **puppeteer** - Automatización
-- **openai** - API de IA
-- **qrcode-terminal** - Código QR en terminal
-- **ytdl-core** - Descarga de YouTube
-
-## 🔐 Seguridad y Privacidad
-
-- Las credenciales se guardan en `.wwebjs_auth/`
-- No compartir archivos de sesión
-- Usar contraseñas fuertes para owner
-- Revisar permisos en grupos
-
-## 🤝 Contribución
-
-```bash
-# Fork el proyecto
-git clone https://github.com/TU-USUARIO/nagui-bot.git
-
-# Crea tu rama
-git checkout -b feature/nueva-funcion
-
-# Commit y Push
-git add .
-git commit -m "Agrega nueva función"
-git push origin feature/nueva-funcion
+Edita `configuracion/config.json`:
+```json
+{
+  "prefix": ".",
+  "owner": "TU_NUMERO_WHATSAPP",
+  "auto_read": true,
+  "anti_spam_enabled": true,
+  "welcome_message": true
+}
 ```
 
-## 📞 Contacto y Soporte
+## 🔄 Reinicio Automático
 
-- **Creador**: Anonimus1221 (Oliver Camacho)
-- **Instagram**: [@oliversc_3z](https://instagram.com/oliversc_3z)
-- **WhatsApp**: [+573182049792](https://wa.me/573182049792)
-- **Email**: [olivercamachodiaz2008@gmail.com](mailto:olivercamachodiaz2008@gmail.com)
-- **GitHub**: [@Anonimus1221](https://github.com/Anonimus1221)
+```bash
+# Reinicia automáticamente si el bot se cae
+npm run restart-on-crash
+```
+
+## 🧹 Limpiar Sesión
+
+```bash
+# Elimina sesión guardada para volver a escanear QR
+npm run clean-session
+```
+
+## 🛠️ Desarrollo
+
+### Estructura del Proyecto
+```
+nagui-bot/
+├── complementos/        # 84 plugins organizados por categoría
+├── configuracion/       # Archivos de configuración
+├── src/img/            # Imágenes temáticas
+├── utils/              # Utilidades
+├── index.js            # Punto de entrada
+├── package.json        # Dependencias
+└── README.md           # Este archivo
+```
+
+### Agregar Nuevo Comando
+
+1. Crea archivo en `complementos/categoria/nombre.js`
+2. Usa estructura estándar:
+```javascript
+module.exports = {
+  name: "comando",
+  category: "categoria",
+  execute: async (client, message, args) => {
+    // Tu código
+  }
+};
+```
+
+3. El bot lo cargará automáticamente
 
 ## ⚠️ Aviso Legal
 
-Este bot es para uso educativo y personal. El usuario es responsable del uso que le dé. No somos responsables de:
-- Bans de WhatsApp
+Este bot es para uso educativo y personal. El usuario es responsable del uso que le dé.
+
+**Descargo de responsabilidad**:
+- Bans de WhatsApp por uso inapropiado
 - Pérdida de datos
-- Uso malintencionado
+- Daños causados por uso malintencionado
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia **MIT**. Eres libre de:
-- ✅ Usar comercialmente
-- ✅ Modificar el código
-- ✅ Distribuir
-- ✅ Usar privadamente
+Este proyecto está bajo licencia **MIT Modificada**.
 
-**Solo debes**: Incluir la licencia y los créditos originales.
+### Permitido ✅
+- Modificar el código
+- Distribuir
+- Usar privadamente
+
+### Prohibido ❌
+- **Uso comercial**
+- Vender el código
+- Lucrar con este proyecto
+
+⚠️ **Este es un proyecto público y de código abierto. Está terminantemente prohibido vender, comercializar o lucrar con este código.**
+
+**Solo debes**: Incluir la licencia y los créditos originales en distribuciones.
+
+## 📊 Estadísticas
+
+- **84** Complementos funcionales
+- **0** Errores de compilación
+- **13** Dependencias npm
+- **100%** Código personalizado
+
+## 🌟 Contribuciones
+
+Para contribuir:
+1. Fork el repositorio
+2. Crea una rama (`git checkout -b feature/nueva-funcion`)
+3. Commit (`git commit -m "Agrega nueva función"`)
+4. Push (`git push origin feature/nueva-funcion`)
+5. Abre un Pull Request
+
+## 📞 Contacto y Soporte
+
+Para reportar bugs o sugerencias, abre un issue en el repositorio de GitHub.
+
+## 🔗 Enlaces Útiles
+
+- [GitHub Repository](https://github.com/Anonimus1221/nagui-bot)
+- [WhatsApp Web JS](https://github.com/pedroslopez/whatsapp-web.js)
+- [Blue Lock Anime](https://myanimelist.net/anime/51596/Blue_Lock)
 
 ---
 
@@ -209,8 +242,7 @@ Este proyecto está bajo licencia **MIT**. Eres libre de:
 
 **⭐ Si te gustó el proyecto, dame una estrella! ⭐**
 
-**Hecho con 💖 por Anonimus1221**
-
 *Inspirado en Blue Lock 🔵⚫*
 
+*Hecho con 💖*
 </div>
